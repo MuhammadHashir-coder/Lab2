@@ -1,0 +1,18 @@
+//Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
+If so, determine if it’s an even number or odd number as well.
+
+1. Ask the uset to enter a number "n"
+2. Ask to give a number to divide "nth"
+3. Set divisibility to (n%nth)
+4. IF divisibility=0 
+      Display "nth is divisor"
+   else 
+      Display "Not divisible"
+5. SET eo=n%2
+6.IF eo=0  //eo is even and odd
+     Display "even"
+  else 
+     Display "odd"
+
+
+//Implement an algorithm where the user enters a number, and an appropriate month is displayed.
