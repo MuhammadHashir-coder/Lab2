@@ -1,0 +1,24 @@
+//Pseudocode
+//Find the maximum number in any of three variables
+
+1.Start
+2.INPUT num1,num2,num3
+3.IF num1>num2 and num1>num3
+    Print "num1"
+  IF num3>num1 and num3>num2
+     Print "num3"
+     else Print "Numbers are same"
+4.END     
+
+// Take three variables as input and add them without using "+" operator 
+1. START
+2. INPUT num1,num2,num3
+3. SET n1=num1, n2=num2*(-) , n3=num3*(-)
+4. SET Sum=n1-n2-n3
+5. DISPLAY Sum
+6. END
+
+//Create a small calculator which only does "+" or "-" operations
+
+
+   
