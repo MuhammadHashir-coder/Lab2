@@ -16,3 +16,32 @@ If so, determine if it’s an even number or odd number as well.
 
 
 //Implement an algorithm where the user enters a number, and an appropriate month is displayed.
+1. 
+2. INPUT number from 1-12
+3. IF number==1
+      Display "January"
+4.  IF number==2
+      Display "Febuary"
+5.  IF number==3
+      Display "March"
+6.  IF number==4
+      Display "April"
+7.  IF number==5
+      Display "May"
+8.  IF number==6
+      Display "June"
+9.  IF number==7
+      Display "July"
+8.  IF number==8
+      Display "August"
+9.  IF number==9
+      Display "September"
+10.  IF number==10
+      Display "October"
+11.  IF number==11
+      Display "November"
+12.  IF number==12
+      Display "December"
+13. else
+      Display "Incorrect number"
+14. END
