@@ -1,5 +1,5 @@
 //Implement an algorithm for determining if an Nth is a divisor of an n Number (i.e. 2 is a divisor of 6).
-If so, determine if it’s an even number or odd number as well.
+If so, determine if it’s an even or odd number.
 
 1. Ask the uset to enter a number "n"
 2. Ask to give a number to divide "nth"
@@ -15,13 +15,14 @@ If so, determine if it’s an even number or odd number as well.
      Display "odd"
 
 
-//Implement an algorithm where the user enters a number, and an appropriate month is displayed.
-1. 
-2. INPUT number from 1-12
+//Implement an algorithm where the user enters a number and displays an appropriate month.
+
+1. Ask the user to enter any number 
+2. Number must from 1-12
 3. IF number==1
       Display "January"
 4.  IF number==2
-      Display "Febuary"
+      Display "February"
 5.  IF number==3
       Display "March"
 6.  IF number==4
@@ -44,4 +45,7 @@ If so, determine if it’s an even number or odd number as well.
       Display "December"
 13. else
       Display "Incorrect number"
-14. END
+
+
+**Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)**
+
