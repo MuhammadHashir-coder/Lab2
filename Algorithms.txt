@@ -47,5 +47,21 @@ If so, determine if it’s an even or odd number.
       Display "Incorrect number"
 
 
-**Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)**
+// Implement an algorithm for making a simple calculator with all the operators (+,-,*,/,%)
 
+1. Ask the user to enter numbers num1,num2
+2. Ask the user for the operation required Sum, Difference,Product, Ratio
+3. SET Sum=num1+num2
+4. SET Difference=num1-num2
+5. SET Product=num1*num2
+6. SET Ratio=num1/num2
+7. IF operation required==Sum
+      Display Sum
+8. IF operation required==Differnce
+      Display Differnce
+9. IF operation required==Product
+      Display Product
+10. IF operation required==Ratio
+      Display Ratio
+11. else
+      Display "Invalid operation"
